@@ -1,0 +1,36 @@
+.footer-login {
+  padding: 50px 20px;
+  line-height: 40px;
+  background-color: rgba(0, 0, 0, .75);
+}
+
+.footer-login .box-footer {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-login .box-footer .box-single {
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.box-footer p {
+  color: #737373;
+}
+
+.box-footer .box-single ul{
+  list-style: none;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.box-footer .box-single ul li{
+  width: 33.3%;
+}
+
+.box-footer .box-single ul li a{
+  color: #737373;
+  text-decoration: none;
+}

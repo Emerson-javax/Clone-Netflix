@@ -1,0 +1,24 @@
+body{
+  background-image: url("../img/fundo-netflix-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.blur-image {
+  background-color: rgba(0, 0, 0, 0.5);
+  min-height: 117.5vh;
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.image-header img {
+  width: 167px;
+  height: 45px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
